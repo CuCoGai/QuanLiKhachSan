@@ -1,0 +1,10 @@
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.pdb
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.pdb
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.dll
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.pdb
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.csprojResolveAssemblyReference.cache
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.dll
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.pdb

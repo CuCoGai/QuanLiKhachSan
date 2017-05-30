@@ -1,0 +1,85 @@
+C:\Users\LeMinh\Desktop\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_HoaDon.resources
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_KhachHang.resources
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Login.resources
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Main.resources
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Phong.resources
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_QuanLiKhachHang.resources
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_ThanhToan.resources
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\GUI.exe
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\GUI.pdb
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\BUS.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\DAO.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\BUS.pdb
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.pdb
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\DAO.pdb
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.exe
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.pdb
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.exe
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.pdb
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.exe
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.pdb
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\BUS.dll
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.dll
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\DAO.dll
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\BUS.pdb
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.pdb
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\DAO.pdb
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_HoaDon.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_KhachHang.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Login.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Main.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Phong.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_QuanLiKhachHang.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_ThanhToan.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.exe
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.pdb
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.exe
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.pdb
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\BUS.dll
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.dll
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\DAO.dll
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\BUS.pdb
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.pdb
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\DAO.pdb
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_HoaDon.resources
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_KhachHang.resources
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Login.resources
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Main.resources
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Phong.resources
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_QuanLiKhachHang.resources
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_ThanhToan.resources
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Kỳ 2-năm 3\Thực tập nhóm\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.exe
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.pdb
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\GUI.exe
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\GUI.pdb
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\BUS.dll
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.dll
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\DAO.dll
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\BUS.pdb
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.pdb
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\bin\Debug\DAO.pdb
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_HoaDon.resources
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_KhachHang.resources
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Login.resources
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Main.resources
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Phong.resources
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_QuanLiKhachHang.resources
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_ThanhToan.resources
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Kỳ 2-năm 3\QuanLiKhachSan\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\bin\Debug\DAO.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\bin\Debug\DAO.pdb
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\obj\Debug\DAO.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\obj\Debug\DAO.pdb
+F:\Kỳ 2-năm 3\QuanLiKhachSan\DAO\bin\Debug\DAO.dll
+F:\Kỳ 2-năm 3\QuanLiKhachSan\DAO\bin\Debug\DAO.pdb
+F:\Kỳ 2-năm 3\QuanLiKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\Kỳ 2-năm 3\QuanLiKhachSan\DAO\obj\Debug\DAO.dll
+F:\Kỳ 2-năm 3\QuanLiKhachSan\DAO\obj\Debug\DAO.pdb
